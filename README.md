@@ -11,10 +11,10 @@
 ### JIRA API integration to update the results in JIRA after the test execution
 
 # Sample Cucumber Report
-<img src="https://github.com/sweet18sharmi/SeleniumBDD/blob/main/cucumber.png">
+<img src="https://github.com/sweet18sharmi/SeleniumBDD-main/blob/main/cucumber.png">
 
 # Sample Extent Report
-<img src="https://github.com/sweet18sharmi/SeleniumBDD/blob/main/1.png">
-<img src="https://github.com/sweet18sharmi/SeleniumBDD/blob/main/2.png">
-<img src="https://github.com/sweet18sharmi/SeleniumBDD/blob/main/3.png">
+<img src="https://github.com/sweet18sharmi/SeleniumBDD-main/blob/main/1.png">
+<img src="https://github.com/sweet18sharmi/SeleniumBDD-main/blob/main/2.png">
+<img src="https://github.com/sweet18sharmi/SeleniumBDD-main/blob/main/3.png">
 
